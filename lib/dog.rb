@@ -6,6 +6,7 @@ class Person
   def name
     @name = name
   end
+end
   
 class Dog 
   def initialize(breed)
